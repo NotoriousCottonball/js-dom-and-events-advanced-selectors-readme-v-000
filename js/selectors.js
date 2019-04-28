@@ -18,7 +18,6 @@ function paragraphSelector(){
  }
 
 
- function firstListItem(){
-  return $('#pic-list li:nth-child(1)');
-
- } 
+ function firstListItem() {
+    return $("#pic-list li:first-child");
+} 
