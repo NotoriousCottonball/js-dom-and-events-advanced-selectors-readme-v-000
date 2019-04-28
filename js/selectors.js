@@ -21,4 +21,4 @@ function paragraphSelector(){
  function firstListItem(){
   return $('#pic-list li:nth-child(1)');
 
- } // declare your functions here...
+ } 
